@@ -1,6 +1,4 @@
-Hi, I'm Vanessa Hall
-I’m currently studying cybersecurity at Utica University
-My email: vahall@utica.edu
+Undergraduate cybersecuirty student at Utica University
 
 <!---
 vahall3/vahall3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
