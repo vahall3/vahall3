@@ -1,4 +1,4 @@
-Undergraduate cybersecuirty student at Utica University
+Undergraduate cybersecurity student at Utica University
 
 <!---
 vahall3/vahall3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
